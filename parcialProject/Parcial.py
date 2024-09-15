@@ -175,7 +175,7 @@ multilinea_fstring = f"""
 Nombre del lenguaje: {nombre}
 Versión actual: {version}
 """
-print(multilinea_fstri
+print(multilinea_fstring)
 
 
 
